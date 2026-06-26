@@ -1,0 +1,326 @@
+{
+  "business": {
+    "name": "KWIK AUTO CARE",
+    "shortName": "Kwik Auto",
+    "tagline": "Reliable Auto Repair in Dallas, TX",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 888-9890",
+    "address": "3717 S Buckner Blvd, Dallas, TX 75227",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM – 6:00 PM, Sat: 8:00 AM – 2:00 PM",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Kwik Auto Care | Trusted Auto Mechanic in Dallas, TX | (214) 888-9890",
+    "description": "Kwik Auto Care in Dallas, TX offers expert auto repair, brake service, engine diagnostics, and AC repair. 4.9 stars, same-day service. Call (214) 888-9890."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Repair Shop",
+      "headline": "Expert Auto Care You Can Count On",
+      "subheadline": "From brakes to AC, we keep your car running smoothly. 4.9 stars – quality work at fair prices.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 888-9890"
+    },
+    "stats": [
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1,000+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "Same-Day",
+        "label": "Service Available"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Precision Diagnostics",
+        "title": "Find Issues Fast with Advanced Diagnostics",
+        "body": "We use state-of-the-art diagnostic equipment to pinpoint problems quickly and accurately. No guesswork, no unnecessary repairs.",
+        "bullets": [
+          "Computerized engine and transmission scanning",
+          "Comprehensive inspection reports",
+          "Transparent pricing before any work begins"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Accurate Every Time",
+        "cardBody": "Our diagnostics save you time and money – we fix what's actually wrong."
+      },
+      {
+        "eyebrow": "Full-Service Repairs",
+        "title": "Complete Auto Repair Under One Roof",
+        "body": "From brake pads to AC recharge, our certified mechanics handle all makes and models. We use quality parts and back our work.",
+        "bullets": [
+          "Brake repair and replacement",
+          "Engine and transmission services",
+          "Heating and air conditioning"
+        ],
+        "reverse": true,
+        "cardLabel": "Convenience",
+        "cardTitle": "All in One Place",
+        "cardBody": "No need to visit multiple shops – we do it all."
+      }
+    ],
+    "whyTitle": "Why Choose Kwik Auto Care?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team is ASE-certified and trained on the latest automotive technology."
+      },
+      {
+        "title": "Fair & Transparent Pricing",
+        "description": "We provide detailed estimates upfront – no hidden fees, no surprises."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most repairs completed same day. We respect your time."
+      },
+      {
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "We stand by our work with a comprehensive warranty on parts and labor."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Kwik Auto Care is the best mechanic in Dallas. They fixed my AC quickly and the price was very fair. I’ll never go anywhere else.",
+        "author": "James T.",
+        "role": "Lakewood resident"
+      },
+      {
+        "quote": "I brought my SUV for brake service and they had it done in a few hours. The team was professional and kept me informed. Highly recommend!",
+        "author": "Maria L.",
+        "role": "Pleasant Grove driver"
+      },
+      {
+        "quote": "Honest and reliable. They diagnosed an engine issue that another shop missed. Saved me hundreds. Trustworthy mechanics.",
+        "author": "David R.",
+        "role": "Buckner area customer"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Repair?",
+      "subheadline": "Call us or book online – we’re here to help.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 888-9890"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Kwik Auto Care, we provide comprehensive auto repair services for all makes and models. Our experienced technicians use top-tier equipment to get you back on the road safely. Explore our services below."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake service – pads, rotors, calipers, and fluid. Safe stops guaranteed.",
+      "longDescription": "Your brakes are your vehicle’s most critical safety system. At Kwik Auto Care, we inspect, repair, and replace brake components to ensure optimal stopping power. We service disc and drum brakes on all vehicles, using quality parts for long-lasting performance.",
+      "benefits": [
+        "Thorough brake inspection included",
+        "Premium pads and rotors for quiet, smooth braking",
+        "Competitive pricing with no hidden costs",
+        "Warranty on all brake work"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check pads, rotors, calipers, lines, and fluid levels."
+        },
+        {
+          "title": "Repair/Replace",
+          "description": "We replace worn parts with high-quality components."
+        },
+        {
+          "title": "Test Drive",
+          "description": "We test your brakes to ensure perfect performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000–70,000 miles depending on driving habits. We’ll check them during any visit."
+        },
+        {
+          "question": "Do you offer brake warranties?",
+          "answer": "Yes, we stand behind our brake work with a parts and labor warranty."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Advanced diagnostics to find and fix engine issues fast.",
+      "longDescription": "Check Engine Light on? Our advanced diagnostic tools read codes and identify root causes. We repair everything from sensor replacements to major engine overhauls. Trust our certified technicians to get your engine running smoothly.",
+      "benefits": [
+        "State-of-the-art diagnostic equipment",
+        "Accurate, no-guesswork repairs",
+        "Transparent estimate before work starts",
+        "All makes and models welcome"
+      ],
+      "process": [
+        {
+          "title": "Scan & Analyze",
+          "description": "We connect to your vehicle’s computer and retrieve trouble codes."
+        },
+        {
+          "title": "Diagnose",
+          "description": "We perform additional tests to pinpoint the exact issue."
+        },
+        {
+          "title": "Repair & Verify",
+          "description": "We fix the problem and test drive to confirm the fix."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my Check Engine Light on?",
+          "answer": "It could be a loose gas cap, a faulty sensor, or a more serious issue. Bring it in for a quick diagnostic."
+        },
+        {
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "We offer competitive rates. Call for details – the diagnostic fee is often waived with repairs."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Air Conditioning (AC) Service",
+      "shortDescription": "Keep your cabin cool with professional AC repair and recharge.",
+      "longDescription": "Nothing ruins a Dallas drive like a broken AC. We service all AC systems – from refrigerant recharge to compressor replacement. Our technicians ensure your system blows cold air efficiently.",
+      "benefits": [
+        "Complete AC inspection and performance test",
+        "Eco-friendly refrigerant handling",
+        "Fast service – most AC repairs same day",
+        "Extended system life with proper maintenance"
+      ],
+      "process": [
+        {
+          "title": "System Check",
+          "description": "We inspect components: compressor, condenser, evaporator, and lines."
+        },
+        {
+          "title": "Diagnose Leaks",
+          "description": "We use UV dye and electronic detectors to find leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We fix leaks, replace parts, and recharge refrigerant to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I recharge my AC?",
+          "answer": "Only if it's not cooling properly. A well-maintained system shouldn't need frequent recharges."
+        },
+        {
+          "question": "Can you fix any AC problem?",
+          "answer": "Yes, from minor leaks to full compressor failure. We’ll advise the best solution."
+        }
+      ],
+      "slug": "air-conditioning-ac-service"
+    },
+    {
+      "icon": "04",
+      "title": "Oil Changes & Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
+      "longDescription": "Routine maintenance is the key to a long-lasting vehicle. We offer oil changes using quality synthetic and conventional oils, plus multi-point inspections to catch issues early. Stay on schedule with Kwik Auto Care.",
+      "benefits": [
+        "Quick 30-minute oil change service",
+        "Complimentary fluid top-off and tire pressure check",
+        "Maintenance reminders to keep you on track",
+        "Extends engine life and improves fuel economy"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace",
+          "description": "We drain old oil, replace the filter, and add fresh oil."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, fluids, tires, and lights."
+        },
+        {
+          "title": "Clean Up & Go",
+          "description": "We reset your maintenance light and provide a detailed report."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Every 5,000–7,500 miles for most modern vehicles. Check your owner’s manual."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic – we’ll recommend the best for your car."
+        }
+      ],
+      "slug": "oil-changes-routine-maintenance"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Auto Repair Experts",
+    "mission": "To provide honest, high-quality auto repair at fair prices, earning our customers’ trust one vehicle at a time.",
+    "story": [
+      "Kwik Auto Care was founded with a simple mission: deliver reliable auto repair without the hassle. Our owner, a lifelong mechanic, saw too many customers overcharged for subpar work. He built a shop where transparency and quality come first. Today, we serve the Dallas community with the same integrity.",
+      "Our team of certified technicians stays up-to-date on the latest automotive technology. We treat every car like it’s our own, using quality parts and thorough inspections. From routine oil changes to complex engine repairs, we’re here to keep you safe on the road."
+    ],
+    "highlight": {
+      "stat": "4.9",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. Our estimates are clear and upfront."
+      },
+      {
+        "title": "Quality",
+        "description": "We use premium parts and back our work with a warranty."
+      },
+      {
+        "title": "Speed",
+        "description": "We respect your time – most services completed same day."
+      },
+      {
+        "title": "Community",
+        "description": "We’re proud to serve Dallas and build lasting relationships."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Kwik Auto Care",
+    "subheadline": "Ready to schedule? Call or fill out the form – we’ll get back to you fast.",
+    "primaryCta": "Call (214) 888-9890",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Pleasant Grove",
+      "Lakewood",
+      "Buckner Terrace",
+      "Mesquite",
+      "Balch Springs"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.9,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148889890",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
